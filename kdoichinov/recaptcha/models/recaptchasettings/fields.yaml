@@ -1,0 +1,7 @@
+fields:
+  site_key:
+    label: Recaptcha Site Key
+    placeholder: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  secret_key:
+    label: Recaptcha Secret Key
+    placeholder: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
